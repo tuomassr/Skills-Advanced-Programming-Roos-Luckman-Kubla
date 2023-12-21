@@ -1,6 +1,8 @@
 # Skills-Advanced-Programming-Roos-Luckman-Kubla
 Run the master_file.py, this is the main file and to it we call/import the other ones
 
+If there are any problems, you can also checkout the demo video
+
 SHORT DESCRIPTION OF THE PROJECT:
 The aim of the project is to get input from the user, assessing their risk tolerance and based on that give out some informative feedback on realistic benchmark expectations on the stock market.
 It consists of 3 main parts:
